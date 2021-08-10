@@ -1,0 +1,3 @@
+_tit: Nâng cấp mạnh mẽ về cụm camera
+_txt: Năm nay với iPhone 11 thì Apple đã nâng cấp khá nhiều về camera nếu so sánh với chiếc iPhone Xr 128GB năm ngoái.
+_img: D1.jpg

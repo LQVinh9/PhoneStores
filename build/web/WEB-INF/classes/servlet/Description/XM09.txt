@@ -1,0 +1,7 @@
+_tit: Màn hình giọt nước mang tính thời thượng
+_txt: Xiaomi Redmi 9C sở hữu trong mình thiết kế bo tròn mềm mại ở các cạnh mang lại cảm giác thoải mái khi cầm nắm, các nhà sản xuất hoàn thiện rất tỉ mỉ từ đó mang lại sự sang trọng và tinh tế cho sản phẩm.
+_img: xiaomi-redmi-9c-242720-082726.jpg
+_txt: Smartphone này được thiết kế màn hình giọt nước, tràn viền màn hình mỏng lên đến 6.53 inch. Bên cạnh đó, Xiaomi Redmi 9C còn trang bị màn hình IPS LCD với độ phân giải HD+ mang lại cho người dùng hình ảnh sắc nét và chân thật nhất.
+Camera trước 5 MP cho người dùng lưu lại những khoảnh khắc đáng nhớ cùng người thân hoặc bạn bè.
+_img: xiaomi-redmi-9c-223320-033352.jpg
+_img: xiaomi-redmi-9c-242720-082726.jpg
