@@ -2,7 +2,7 @@
  
  *The application was developed on March 20, 2021*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-31.2%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/PhoneStores?style=social) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLQVinh9%2FPhoneStores&count_bg=%23AF27CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-31.2%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
   
  Website to sell phones.
  
