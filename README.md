@@ -4,7 +4,7 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-31.2%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
   
- User management website application.
+ Website to sell phones.
  
  Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
  
